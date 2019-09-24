@@ -466,7 +466,7 @@ small.favo i.fa.fa-heart {
 	}
 } */
 
-.body > header > div:nth-child(1) > div > div.col-xs-4 > a {
+#board-info > h1 > a{
   animation: flux 2s linear infinite;
   -moz-animation: flux 2s linear infinite;
   -webkit-animation: flux 2s linear infinite;
