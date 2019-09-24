@@ -35,7 +35,7 @@ header .row>div:nth-child(1)>a {
   display: block;
   width: 250px;
   height: 55px;
-  background: url('https://upload.tgd.kr/20190920/02cd0f0935664fc6570f31afc9ad1fe9.png') no-repeat;
+  background: url('../source/lagether.png') no-repeat;
 /*  background: url('https://1.bp.blogspot.com/-6soWDRKYobc/XYnO-AkAoqI/AAAAAAAAAYc/Cdlq64O0JJURl2iezkxaGNErLMa2hw_YwCLcBGAsYHQ/s320/%25EB%258B%25A4%25EB%25B9%2584%25ED%2583%2580%25EB%25A1%259C%25EA%25B3%25A0.gif') no-repeat; */
 
   background-size: auto 60px;
