@@ -34,7 +34,7 @@ header #header-bar>.row {
 header .row>div:nth-child(1)>a {
   display: block;
   width: 250px;
-  height: 55px;
+  height: 60px;
   background: url('https://gwoh.github.io/tgdcss/lightoh/resource/images/lagether.png') no-repeat;
 /*  background: url('https://1.bp.blogspot.com/-6soWDRKYobc/XYnO-AkAoqI/AAAAAAAAAYc/Cdlq64O0JJURl2iezkxaGNErLMa2hw_YwCLcBGAsYHQ/s320/%25EB%258B%25A4%25EB%25B9%2584%25ED%2583%2580%25EB%25A1%259C%25EA%25B3%25A0.gif') no-repeat; */
 
