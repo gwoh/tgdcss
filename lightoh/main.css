@@ -1,10 +1,16 @@
 @font-face { font-family: 'Binggrae'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face {
+    font-family: 'CookieRunWebBlack';
+    src: url('https://gwoh.github.io/lightoh/resource/fonts/CookieRunWebBlack.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body {
 letter-spacing: -0.05em !important;
   background: transparent;
   background-image:url();
-  font-family: 'Binggrae', sans-serif;
+  font-family: 'CookieRunWebBlack', sans-serif;
 /*  animation:cherryblossom 30s linear infinite */
 }
 
