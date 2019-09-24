@@ -1,16 +1,16 @@
 @font-face { font-family: 'Binggrae'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae.woff') format('woff'); font-weight: normal; font-style: normal; }
-@font-face {
+/* @font-face {
     font-family: 'CookieRunWebBlack';
     src: url('https://gwoh.github.io/lightoh/resource/fonts/CookieRunWebBlack.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
-}
+} */
 
 body {
 letter-spacing: -0.05em !important;
   background: transparent;
   background-image:url();
-  font-family: 'CookieRunWebBlack', sans-serif;
+  font-family: 'Binggrae', sans-serif;
 /*  animation:cherryblossom 30s linear infinite */
 }
 
@@ -473,7 +473,7 @@ small.favo i.fa.fa-heart {
 } */
 
 #board-info > h1 > a{
-  font-family: 'CookieRunWebBlack';
+  font-family: 'Binggrae';
 }
 
 #board-info > h1 > a{
