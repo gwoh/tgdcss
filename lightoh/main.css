@@ -467,10 +467,6 @@ small.favo i.fa.fa-heart {
 } */
 
 .body > header > div:nth-child(1) > div > div.col-xs-4 > a {
-  font-family: neon;
-  color: #426DFB;
-  font-size: 9vw;
-  line-height: 9vw;
   text-shadow: 0 0 3vw #2356FF;
 }
 
