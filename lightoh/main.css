@@ -471,10 +471,10 @@ small.favo i.fa.fa-heart {
 		background-position: 500px 1000px,400px 400px,300px 300px
 	}
 } */
-
+/*
 #board-info > h1 > a{
   font-family: 'CookieRunWebBlack';
-}
+}*/
 
 #board-info > h1 > a{
   animation: flux 2s linear infinite;
