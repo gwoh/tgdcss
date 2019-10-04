@@ -15,7 +15,7 @@ letter-spacing: -0.05em !important;
 }
 
 html {
-  background: linear-gradient(to bottom, #ffffff, #ffffff);
+  background: linear-gradient(to bottom, #000000, #000000);
   height: auto !important;
 }
 
@@ -30,7 +30,7 @@ header #header-bar>.row,
 /* 로고밑 NAV bar */
 
 header #header-bar>.row {
-  border-top: 4px solid #2fbaff;
+  border-top: 4px solid #ffffff;
   border-right: none;
   border-bottom: none;
 }
@@ -57,13 +57,13 @@ header .row>div:nth-child(1)>a>img {
 /* 검색폼 보더 */
 
 header #right-search-form>input[type='text'] {
-  border: 3px solid #2fbaff;
+  border: 3px solid #ffffff;
 }
 
 /* 트게더 전체메뉴 / 유용한링크 / 트위치 스케쥴 */
 
 #main .menu-wrapper>.header {
-  background: #2fbaff;
+  background: #ffffff;
 }
 
 .fa-navicon:before,
@@ -73,7 +73,7 @@ header #right-search-form>input[type='text'] {
 }
 
 .fa-square:before {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 header #header-bar>.row,
@@ -90,25 +90,25 @@ header #header-bar>.row,
 /* 헤더 검색 버튼 */
 
 header #right-search-form>#right-search-btn {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 /* 헤더 [광고]배경색 */
 
 header #header-bar #header-top-notice strong.notice-badge {
-  background: #2fbaff;
+  background: #ffffff;
 }
 
 /* fa색상 */
 
 header #header-bar .fa {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 /* 스트리머 게시판 상단 정보 글씨색상 */
 
 #board-info #board-info-bottom a {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 #board-info #board-info-profile-img {
@@ -171,7 +171,7 @@ header #header-bar .fa {
 /* 좌측메뉴 숏컷링크 글씨 색상 */
 
 #main .menu-wrapper>a>em {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 /*
@@ -187,7 +187,7 @@ header #header-bar .fa {
 /* 좌측메뉴 메뉴사이의 공간 색상 */
 
 #main .menu-wrapper .spacer {
-  background: #2fbaff;
+  background: #ffffff;
   height: 0.15em;
 }
 
@@ -195,7 +195,7 @@ header #header-bar .fa {
 
 /* 공지 색상
 #article-list>.article-list-row.notice {
-    background-color: #2fbaff;
+    background-color: #ffffff;
 } */
 
 #article-list>.article-list-row>.item>.list-title>.list-writer>span {
@@ -203,11 +203,11 @@ header #header-bar .fa {
 }
 
 #article-list>.article-list-row:nth-of-type(2) {
-    border-top: 2px solid #2fbaff;
+    border-top: 2px solid #ffffff;
 }
 
 #article-list #article-list-category {
-  border-top: 2px solid #2fbaff;
+  border-top: 2px solid #ffffff;
   background: white;
 }
 
@@ -216,15 +216,15 @@ header #header-bar .fa {
 }
 
 #article-list>.article-list-row>.item>.list-header>span {
-  background-color: #2fbaff;
+  background-color: #ffffff;
 }
 
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 .pagination>.active>a,
@@ -233,29 +233,29 @@ header #header-bar .fa {
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover {
-  background-color: #2fbaff;
-  border-color: #2fbaff;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 
 .pagination>li>a:focus,
 .pagination>li>a:hover,
 .pagination>li>span:focus,
 .pagination>li>span:hover {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 .pagination>li>a,
 .pagination>li>span {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 #article-content-wrapper>.header {
-  border-top: 2px solid #2fbaff;
+  border-top: 2px solid #ffffff;
 }
 
 #article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
 #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 #article-info>h2 {
@@ -263,11 +263,11 @@ header #header-bar .fa {
 }
 
 #article-info>h2>span.category {
-  color: #2fbaff !important;
+  color: #ffffff !important;
 }
 
 #article-reply-area>.header h5 {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 #main .menu-wrapper>a {
@@ -275,11 +275,11 @@ header #header-bar .fa {
 }
 
 a {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 span.a-badge i.fa.fa-info-circle {
-  color: #2fbaff;
+  color: #ffffff;
 }
 
 /* footer */
@@ -300,7 +300,7 @@ span.a-badge i.fa.fa-info-circle {
 }
 
 .btn-primary {
-  background: #2fbaff !important;
+  background: #ffffff !important;
 }
 
 #article-list .article-list-row:hover, #article-list div.article-list-row.notice:hover, #article-neighbor-list>div:hover {
@@ -327,7 +327,7 @@ img#board-info-profile-img:hover {
 .input-group-btn.open .dropdown-menu {  
   opacity: unset;
   transform: unset; 
-  border: 2px solid #2fbaff;
+  border: 2px solid #ffffff;
   border-radius: 10px;  
   box-shadow: 0 2px 2px rgba(0,0,0,.3);
 }
@@ -379,16 +379,16 @@ img#board-info-profile-img:hover {
 */
 
 #article-votes > i.fa-heart:before {
-   color: #2fbaff;
+   color: #ffffff;
 } 
 
 .fa-eye:before {
-    color: #2fbaff;
+    color: #ffffff;
     content: "\f06e";
 }
 
 .fa-commenting:before {
-    color: #2fbaff;
+    color: #ffffff;
     content: "\f27a";
 }
 
