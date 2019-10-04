@@ -486,10 +486,25 @@ small.favo i.fa.fa-heart {
 }
 
 #board-info > h1 > a{
-  animation: flux 2s linear infinite;
-  -moz-animation: flux 2s linear infinite;
-  -webkit-animation: flux 2s linear infinite;
-  -o-animation: flux 2s linear infinite;
+	animation: flux 2s linear infinite;
+	-moz-animation: flux 2s linear infinite;
+	-webkit-animation: flux 2s linear infinite;
+	-o-animation: flux 2s linear infinite;
+}
+
+board-info > h1 > a{
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	letter-spacing: -0.05em !important;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.1;
+	font-size: 24px;
+	box-sizing: border-box;
+	background-color: transparent;
+	cursor: pointer;
+	text-decoration: none;
+	color: #181d1a;
+	content:url(https://upload.tgd.kr/20191004/c0e85ec56b35f2ad636d3c97ad21c41b.png);
 }
 
 @keyframes flux {
