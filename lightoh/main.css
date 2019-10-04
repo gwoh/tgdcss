@@ -486,7 +486,6 @@ small.favo i.fa.fa-heart {
 }
 
 #board-info > h1 > a{
-	content:url(https://upload.tgd.kr/20191004/c0e85ec56b35f2ad636d3c97ad21c41b.png);
   animation: flux 2s linear infinite;
   -moz-animation: flux 2s linear infinite;
   -webkit-animation: flux 2s linear infinite;
