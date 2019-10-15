@@ -11,6 +11,7 @@ letter-spacing: -0.05em !important;
   background: transparent;
   background-image:url(https://gwoh.github.io/tgdcss/lightoh/resource/images/fall.jpg);
   font-family: 'Binggrae', sans-serif;
+  background-repeat:no-repeat;
 /*  animation:cherryblossom 30s linear infinite */
 }
 
